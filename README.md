@@ -9,7 +9,7 @@ Filtering Out Irrelevant Features By Recursively Focusing Attention on Inputs of
 cd docker
 ```
 
-### 2. Installaion of kaldi for speech
+### 2. Installaion of kaldi for espnet
 ```bash
 git clone https://github.com/kaldi-asr/kaldi kaldi
 
